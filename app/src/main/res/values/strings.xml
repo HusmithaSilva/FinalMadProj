@@ -10,4 +10,8 @@
     <string name="regtxt">Register Form</string>
     <string name="check1">Teacher</string>
     <string name="check2">Student</string>
+    <string name="tchrsub">Subject</string>
+    <string name="tchrhint">Enter Subject</string>
+    <string name="tchrmsg">Message</string>
+    <string name="tchrbtn">Send</string>
 </resources>
