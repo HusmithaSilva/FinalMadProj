@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FinalExamProjectTest</string>
+    <string name="logintxt">The CourseApp</string>
+    <string name="loginedithint1">Enter Username</string>
+    <string name="logintxt1">Username</string>
+    <string name="logintxt2">Password</string>
+    <string name="loginedithint2">Enter Password</string>
+    <string name="loginbtn1">Log In</string>
+    <string name="loginbtn2">Register</string>
 </resources>
